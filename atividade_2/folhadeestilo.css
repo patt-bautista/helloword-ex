@@ -1,0 +1,27 @@
+
+        p {
+            color: red;
+        }
+
+        p a {
+            color: blue;
+        }
+
+        a {
+            color: green;
+        }
+
+        .rosa {
+            color:pink;
+        }
+        
+        .adinha {
+            font-family: "Times New Roman", Times, serif;
+            color: black;
+            font-size:18px;
+        }
+
+
+        #introducao {
+            font-size:20px;
+        }

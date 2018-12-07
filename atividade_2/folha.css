@@ -1,0 +1,52 @@
+        a {
+            color: blue;
+        }
+
+        .titulo {
+            font-family: courier;
+            text-align: center;
+            font-size: 60px;
+        }
+
+        .subtitulo {
+            font-family: courier;
+            text-align: center;
+            font-size: 30px;
+            background-color: #333;
+        }
+
+        p {
+            text-align: justify;
+        }
+        
+        h1{ 
+            margin: 35px;
+        }
+         
+        .adinha {
+            font-family: serif, Times, "Times New Roman";
+            font-size: 18px;
+            margin: 10px;
+            text-align: justify;
+        }
+              
+        .marg {
+            font-family: Arial, Helvetica, "sans-serif New Roman";
+            font-size: 18px;
+            margin: 10px;
+            text-align: justify;
+        }
+
+        .grace {
+            font-family: Helvetica, "sans-serif New Roman", "Times New Roman";
+            font-size: 18px;
+            margin: 10px;
+            text-align: justify;
+        }
+
+        .mary {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 18px;
+            margin: 10px;
+            text-align: justify;
+        }
