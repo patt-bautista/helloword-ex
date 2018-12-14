@@ -1,0 +1,17 @@
+
+        div.header {    
+            background-color: rgb(38, 145, 38);    
+            color: white;    
+            padding: 10px;    
+            font-size: 40px; 
+            }
+
+        div.container {    
+            padding: 10px; 
+            }
+
+        div.card {  
+            width: 250px; 
+            text-align: center;
+            }    
+
